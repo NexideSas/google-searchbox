@@ -1,7 +1,7 @@
 {
-  "name": "google-searchbox",
-  "version": "1.0.0",
-  "description": "Searchbox library for frontend libraries",
+  "name": "@nexide/google-searchbox",
+  "version": "0.0.1",
+  "description": "SearchBox library for frontend libraries",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
